@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: BackgroundLoop
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 35cc4fff0493e584e8b159f7ce4275e5,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: c3ca48b84df0f2148a5ec646084677f7,
     type: 2}
   udonAssembly: 
   assemblyError: 

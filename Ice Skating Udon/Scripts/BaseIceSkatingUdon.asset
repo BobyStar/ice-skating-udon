@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: BaseIceSkatingUdon
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 4ea3bf1f5db4d1246ba5e193a6086b63,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 7305cd462fd06ed43931aa4fa42d7c66,
     type: 2}
   udonAssembly: 
   assemblyError: 

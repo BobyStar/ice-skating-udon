@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: ToggleGameObjects
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 065666069812a494b9d8af5e18cff64a,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 6988761a7a77d86408de1e8eb852d09d,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export gameObjects\r\n    \r\n    __index_0:
     %SystemInt32, null\r\n    __condition_0: %SystemBoolean, null\r\n    __instance_1:

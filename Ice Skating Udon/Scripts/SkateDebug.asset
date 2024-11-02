@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: SkateDebug
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 8385152005d83454985354a7d6a488cc,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 60c5d3f3da701d1469a229a2fa2233a8,
     type: 2}
   udonAssembly: 
   assemblyError: 
